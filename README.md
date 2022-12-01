@@ -5,8 +5,6 @@
 ### Project description:
 The aim of this project is to prove the thorem of the OLS upper bound from the book of Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar called ["Foundations of Machine Learning"](https://cs.nyu.edu/~mohri/mlbook/). The theorem is included in the ipynb file with the description. 
 
-We
-
 ### Requirements:
 The code was written in Python, and uses these libraries: `numpy`, `sklearn`, `pandas`, `matplotlib`.
 
